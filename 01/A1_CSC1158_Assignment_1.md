@@ -1,12 +1,3 @@
----
-title: 'A1 CSC1158 Assignment 1'
-documentId: 15VlPjXNCiJg-0sowqHD9PEiJCsmeBtEZ-vwDW0-Uw7k
-revisionId: ALBJ4LtTV2D5MNfC_YkGDkQfvPHTjDYj3w97ZjCfWX2pOhRxiA8MQCPJ5M8uSb-hMSaNu6fIP0upLEd620706Q
-documentLink: https://docs.google.com/document/d/15VlPjXNCiJg-0sowqHD9PEiJCsmeBtEZ-vwDW0-Uw7k/
----
-  
-<a id="h.qplme7hq144q" name="h.qplme7hq144q"></a>
-
 ## CSC1158 Assignment 1: using git & first skill report
 
 **Marks:**&nbsp;9% of module total
