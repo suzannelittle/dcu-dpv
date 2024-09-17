@@ -160,7 +160,7 @@ These data types often require specialised processing or provide the opportunity
 
 ### References
 
-“Types of Data”: Chapter 2 of “Principles of Data Science”, Sinan Ozdemir \(2016\), [https://dcu.primo.exlibrisgroup.com/permalink/353DCU_INST/jrp0g3/alma991005580550807206](https://dcu.primo.exlibrisgroup.com/permalink/353DCU_INST/jrp0g3/alma991005580550807206) \(DCU Library\)
+“Types of Data”: Chapter 2 of “Principles of Data Science”, Sinan Ozdemir \(2016\), [DCU Library](https://dcu.primo.exlibrisgroup.com/permalink/353DCU_INST/jrp0g3/alma991005580550807206)
 
 Good summary of NOIR for data measurements: [https://www.questionpro.com/blog/nominal\-ordinal\-interval\-ratio ](https://www.questionpro.com/blog/nominal-ordinal-interval-ratio/#targetText=Nominal%2C%20Ordinal%2C%20Interval%20and%20Ratio,being%20a%20multiple%20choice%20question.&targetText=Nominal%20scale%20is%20a%20naming,labeled%2C%20with%20no%20specific%20order.)
 
