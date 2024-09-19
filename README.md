@@ -17,7 +17,7 @@ Temporary access to key module materials for Data Processing & Visualisation mod
  * [Document: Reference Sheet on Data Types](02_Reference_Sheet_for_Data_Types.md)
 
  ### Open Data & Files 
- * [Data Sources -- Open Data](02/02_Open_Data.md)
+ * [DocumentL Data Sources -- Open Data](02/02_Open_Data.md)
  * [Exercise: Open Data](02/02_Exercise_using_Open_Data.md)
  * [Files \& File Types](02/02b_Files.md)
  * [Exercise: Data Science File Types](https://docs.google.com/presentation/d/19QzdMfrSeTdfjITAhppUMOFguw0rNj5QC3odb4Fwx8M/edit?usp=sharing)
